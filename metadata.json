@@ -1,0 +1,8 @@
+{
+  "name": "Suwayomi Manga Reader",
+  "description": "Full-featured manga reader, library manager, and extension browser converted to TypeScript and Next.js.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
